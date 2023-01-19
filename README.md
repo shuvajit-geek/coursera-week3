@@ -1,2 +1,2 @@
 # coursera-week3
-coursera week 3
+I am editing the README.md file. Adding some more details about the course description.
